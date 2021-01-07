@@ -1,0 +1,1 @@
+package com.titiredennis.curs4.mostenire;public class Main {    public static void main(String[] args) {        Animal animal = new Animal("caine");        Pisica pisica = new Pisica();        System.out.println(pisica.getSpecie());    }}

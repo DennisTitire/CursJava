@@ -1,0 +1,1 @@
+package com.titiredennis.curs5;public class Animal {    public  void comunicare() {    }}

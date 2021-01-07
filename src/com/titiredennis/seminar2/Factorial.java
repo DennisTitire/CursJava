@@ -1,0 +1,1 @@
+package com.titiredennis.seminar2;// Factorial// n = 7 cat este n!public class Factorial {    public static void main(String[] args) {        int n = 7;        int acumulator = n;    }}

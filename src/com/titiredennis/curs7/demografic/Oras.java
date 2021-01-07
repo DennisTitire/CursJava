@@ -1,0 +1,1 @@
+package com.titiredennis.curs7.demografic;public class Oras extends Delimitare{    /*    * int -> Integer ===> boxing    * Integer -> int ===> unboxing    *    * */    public Oras(String nume, int populatie) {        super(nume, populatie);    }    @Override   public void limba() {        System.out.println("Sunt un oras " + getNume());    }}

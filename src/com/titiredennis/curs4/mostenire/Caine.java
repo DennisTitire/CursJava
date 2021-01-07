@@ -1,0 +1,1 @@
+package com.titiredennis.curs4.mostenire;public class Caine extends Animal {    Caine(String specie) {        super(specie);    }}

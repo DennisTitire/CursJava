@@ -1,0 +1,1 @@
+package com.titiredennis.seminar3;public class Fibonaci {}

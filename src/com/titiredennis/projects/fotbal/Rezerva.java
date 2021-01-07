@@ -1,0 +1,1 @@
+package com.titiredennis.projects.fotbal;public class Rezerva extends Fotbalist {    @Override    public void pozitie() {        System.out.println("Rezerva");    }    @Override    public void alerg() {        System.out.println("Stau pe banca de rezerva!");    }}

@@ -1,0 +1,1 @@
+package com.titiredennis.curs7.demografic;public class Tara extends Delimitare{    Tara(String nume, Integer populatie) {        super(nume, populatie);    }    @Override    void limba() {        System.out.println("Sunt o tara " + getNume());    }}

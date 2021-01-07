@@ -1,0 +1,1 @@
+package com.titiredennis.codewars;import java.util.ArrayList;import java.util.List;public class Main {    public static void main(String[] args) {        Kata.createPhoneNumber(new int[]{1,2,3,4,5,6,7,8,9,0});        String pangram1 = "The quick brown fox jumps over the lazy dog.";        ProgramChecker pc = new ProgramChecker();        pc.check(pangram1);    }}

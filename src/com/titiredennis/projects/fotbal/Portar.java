@@ -1,0 +1,1 @@
+package com.titiredennis.projects.fotbal;public class Portar extends Fotbalist {    @Override    public void pozitie() {        System.out.println("Portar");    }    @Override    public void alerg() {        System.out.println("Eu nu alerg, apar mingile!");    }}

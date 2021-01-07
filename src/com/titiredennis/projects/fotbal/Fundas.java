@@ -1,0 +1,1 @@
+package com.titiredennis.projects.fotbal;public class Fundas extends Fotbalist{    @Override    public void pozitie() {        System.out.println("Fundas!");    }    @Override    public void alerg() {        System.out.println("Alerg! Nu las adversarul sa ajunga la careu!");    }}

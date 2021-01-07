@@ -1,0 +1,1 @@
+package com.titiredennis.curs4.mostenire;public class Pisica extends Animal{    Pisica() {        super("pisica");    }}

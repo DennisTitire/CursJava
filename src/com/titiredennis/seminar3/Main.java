@@ -1,0 +1,1 @@
+package com.titiredennis.seminar3;public class Main {    public static void main(String[] args) {        Fibonaci fibonaci = new Fibonaci();    }}
